@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Island Life Business AI</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>🌴 Island Life Business AI</h1>
+  <p>One App to Run Island Businesses</p>
+  <button>Get Started</button>
+</header>
+
+<section>
+  <h2>Why Island Life?</h2>
+  <p>We help island businesses go digital, manage sales, and grow using AI.</p>
+</section>
+
+<section class="features">
+  <div>🏪 Business Website Builder</div>
+  <div>📦 Inventory & Sales Tracking</div>
+  <div>💳 Digital Payments</div>
+  <div>🤖 AI Business Coach</div>
+  <div>🛒 Online Marketplace</div>
+</section>
+
+<section>
+  <h2>Founder</h2>
+  <p>Dominic - Solomon Islands 🇸🇧</p>
+</section>
+
+<footer>
+  <p>© 2026 Island Life Tech. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
